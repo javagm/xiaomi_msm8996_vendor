@@ -1,2 +1,1 @@
-# xiaomi_msm8996_vendor
-# for gemini
+# Xiaomi msm8996 proprietary vendor for gemini
