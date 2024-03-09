@@ -1,2 +1,2 @@
-# xiaomi_msm8996_vendor
+# Xiaomi_msm8996_vendor
 # for gemini
